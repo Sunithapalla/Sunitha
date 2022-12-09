@@ -1,0 +1,57 @@
+#foursub1{
+	background-image: url('../images/livingroom.jpg');
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow-y: hidden;
+    overflow-x: hidden;
+    padding-top: 50px;
+}
+.heading{
+	color: white;
+	font-family: sans-serif;
+	font-size: 45px;
+	user-select:none;
+}
+.content{
+    color: white;
+	font-family: sans-serif;
+	font-size: 20px;
+	user-select: none;
+}
+#mybtn{
+/*	background-color: #EF9A53;*/
+	border: none;
+	height: 40px;
+	width: 150px;
+}
+
+
+
+#blank{
+	padding: 50px;
+}
+.text{
+	font-size: 20px;
+	margin: 30px 0px 20px 0px;
+	font-family: serif;
+	user-select: none;
+}
+
+.btn {
+  background-color: #EF9A53;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #68B984;
+  color: white;
+}
+#more {display: none;}
